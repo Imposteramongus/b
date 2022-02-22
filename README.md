@@ -1,4 +1,4 @@
-## This project is still in development. There are NO public compiled releases (yet).
+## This project is pretty much dead. Don't expect an update for a long time.
 
 # Rhythm Heaven Mania
 
